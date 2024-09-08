@@ -1,0 +1,54 @@
+ 
+
+
+.banner{
+  
+  width: 1500x;
+  height: 400px;
+  background-image: url(assets/trip-background.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.trip-container{
+}
+.trip-title{
+  font-size: 70px;
+  font-weight: bold;
+  font-family: Arial;
+  text-shadow: 3px 3px 5px gray;
+  text-align: center;
+  padding-top: 150px;
+  
+}
+.tripcost-text{
+  color: #3f50b5;
+}
+.calc-text{
+  color: #f23151
+}
+.car-ch{
+  margin-top: 15px;
+  padding: 60px;
+}
+
+
+/*
+*{
+  padding: 0;
+  margin 0;
+  box-sizing: border-box;
+}
+body{
+  min-height: 100vh;
+
+  background: #c3e3f4;
+
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+*/
